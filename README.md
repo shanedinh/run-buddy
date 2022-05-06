@@ -1,7 +1,7 @@
-# run-buddy
+# Run Buddy, Inc
 
 ## Purpose
-A website that offeres fitness training services.
+A website that offers fitness training services. 
 
 ## Built With
 * HTML
@@ -10,5 +10,7 @@ A website that offeres fitness training services.
 ## Website
 https://shanedinh.github.io/run-buddy/
 
-## Contribution 
+## Contribution
 Made with ❤️ by Shane Dinh
+
+### ©️2019 Run Buddy, Inc 
